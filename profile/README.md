@@ -30,7 +30,7 @@ git push origin feature/your-feature-name
 ❌ Automated status checks are NOT required by default (Can be configured manually).   
 
 ## 📞 Need Help?  
-For any issues, please contact the repository maintainers or open an issue.  
+For any issues, please contact the repository maintainers.
 
 ---
 
@@ -66,4 +66,4 @@ git push origin feature/название-фичи
 ❌ Статус-проверки не обязательны по умолчанию (можно настроить вручную).  
 
 ## 📞 Нужна помощь?  
-# По вопросам обращайтесь к поддержке репозитория или создайте issue.  
+По вопросам обращайтесь к поддержке репозитория. 
